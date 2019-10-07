@@ -1,0 +1,15 @@
+
+modelType=QuestionsPlacedTogether
+dataType=030QuestionsPlacedTogether
+
+sampleSize=1
+burnSize=1
+lagSize=1
+
+trialNumber=8
+
+trial=0${trialNumber}0S${sampleSize}B${burnSize}L${lagSize}${modelType}
+
+export modelType
+export dataType
+export trial

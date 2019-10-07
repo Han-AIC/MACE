@@ -1,0 +1,1 @@
+docker cp dockerIDGoesHere:/MACE/200Model/030IntermediateDataRepository ~/
